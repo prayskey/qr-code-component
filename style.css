@@ -13,12 +13,10 @@ body {
     height: 100vh;
     padding: 20px;
     text-align: center;
-    font-size: 15px;
 }
 .card-container {
     background-color: #fff;
     width: 100%;
-    height: ;
     max-width: 320px;
     display: flex;
     flex-direction: column;
@@ -43,6 +41,7 @@ p {
     color: hsl(220, 15%, 55%);
     font-weight: 400;
     margin-bottom: 20px;
+    font-size: 15px;
 }
 p , a {
     color: hsl(218, 9%, 52%);
